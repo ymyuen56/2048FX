@@ -1,0 +1,4 @@
+.root{
+    -fx-background-image: url("board.png");
+    -fx-background-repeat: stretch;
+}
